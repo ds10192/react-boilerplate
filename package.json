@@ -1,0 +1,23 @@
+{
+  "name": "react-boilerplate",
+  "version": "0.1.0",
+  "description": "This is my baseline react project",
+  "main": "index.js",
+  "dependencies": {
+    "npm": "^6.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ds10192/react-boilerplate.git"
+  },
+  "author": "Daniel Saucedo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ds10192/react-boilerplate/issues"
+  },
+  "homepage": "https://github.com/ds10192/react-boilerplate#readme"
+}
